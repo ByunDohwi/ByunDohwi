@@ -1,88 +1,97 @@
-<!-- =======================
-  Profile README for ByunDohwi
-  Main Color: Orange (#FF7A00 / #FFA500)
-======================= -->
+<!-- =====================================
+  Profile README — ByunDohwi
+  Main Color: Orange (#FF7A00)
+===================================== -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=FF7A00&height=230&section=header&text=ByunDohwi&fontSize=72&fontColor=ffffff&animation=fadeIn&desc=Build%20things.%20Ship%20things.%20Learn%20fast.&descAlignY=78&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FF7A00&height=230&section=header&text=ByunDohwi&fontSize=72&fontColor=ffffff&animation=fadeIn&desc=Backend%20Developer%20who%20runs%20real%20services&descAlignY=78)
 
 <div align="center">
 
-### 👋 안녕하세요, ByunDohwi 입니다
-구조적으로 만들고, 빠르게 실험하고, 꾸준히 개선하는 걸 좋아합니다.  
-작은 프로젝트라도 **끝까지 완성**하는 습관을 만들고 있어요.
+### 👋 안녕하세요, 백엔드 개발자 변도휘입니다
+
+**실제 사용자가 있는 서비스를 운영하며**  
+안정적인 서버와 데이터 구조를 고민하는 백엔드 개발자입니다.  
+
+기능 구현보다 **서비스가 계속 신뢰할 수 있게 동작하는 것**에 더 큰 가치를 둡니다.
 
 <br/>
 
-<!-- =======================
-  🛠 Tech Stack (간단 버전)
-======================= -->
-<img src="https://img.shields.io/badge/JavaScript-111111?style=flat&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/TypeScript-111111?style=flat&logo=typescript&logoColor=3178C6" />
-<img src="https://img.shields.io/badge/Python-111111?style=flat&logo=python&logoColor=3776AB" />
-<img src="https://img.shields.io/badge/React-111111?style=flat&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-111111?style=flat&logo=node.js&logoColor=339933" />
-<img src="https://img.shields.io/badge/Git-111111?style=flat&logo=git&logoColor=F05032" />
+<!-- =====================
+  🛠 Tech Stack
+===================== -->
+<img src="https://img.shields.io/badge/Kotlin-111111?style=flat&logo=kotlin&logoColor=7F52FF"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-111111?style=flat&logo=springboot&logoColor=6DB33F"/>
+<img src="https://img.shields.io/badge/JPA-111111?style=flat"/>
+<img src="https://img.shields.io/badge/MySQL-111111?style=flat&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/Redis-111111?style=flat&logo=redis&logoColor=DC382D"/>
+<img src="https://img.shields.io/badge/Git-111111?style=flat&logo=git&logoColor=F05032"/>
 
 <br/><br/>
 
-<!-- =======================
-  📈 GitHub Stats + Top Languages (주황 톤 커스텀)
-  - bg_color=00000000 : 투명 배경(프로필 배경에 자연스럽게)
-  - title/icon/border : 오렌지 포인트
-======================= -->
+<!-- =====================
+  📈 GitHub Stats
+===================== -->
 <table>
   <tr>
     <td>
-      <img height="170" src="https://github-readme-stats.vercel.app/api?username=ByunDohwi&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&bg_color=00000000&title_color=FF7A00&text_color=222222&icon_color=FF7A00&border_color=FF7A00" />
+      <img height="170" src="https://github-readme-stats.vercel.app/api?username=ByunDohwi&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&bg_color=00000000&icon_color=FF7A00&border_color=FF7A00"/>
     </td>
     <td>
-      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByunDohwi&layout=compact&langs_count=8&bg_color=00000000&title_color=FF7A00&text_color=222222&border_color=FF7A00" />
+      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByunDohwi&layout=compact&langs_count=8&bg_color=00000000&border_color=FF7A00"/>
     </td>
   </tr>
 </table>
 
 <br/>
 
-<!-- =======================
-  📌 Featured Projects (대표 프로젝트)
-  아래 PROJECT_1~4를 실제 레포명으로 바꾸면 끝!
-======================= -->
-## 📌 Featured Projects
+<!-- =====================
+  Projects
+===================== -->
+## Projects
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/ByunDohwi/PROJECT_1">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ByunDohwi&repo=PROJECT_1&bg_color=00000000&title_color=FF7A00&text_color=222222&icon_color=FF7A00&border_color=FF7A00" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/ByunDohwi/PROJECT_2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ByunDohwi&repo=PROJECT_2&bg_color=00000000&title_color=FF7A00&text_color=222222&icon_color=FF7A00&border_color=FF7A00" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/ByunDohwi/PROJECT_3">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ByunDohwi&repo=PROJECT_3&bg_color=00000000&title_color=FF7A00&text_color=222222&icon_color=FF7A00&border_color=FF7A00" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/ByunDohwi/PROJECT_4">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ByunDohwi&repo=PROJECT_4&bg_color=00000000&title_color=FF7A00&text_color=222222&icon_color=FF7A00&border_color=FF7A00" />
-      </a>
-    </td>
-  </tr>
-</table>
+### PiCK — 교내 출결 관리 서비스
+
+- 교내 출결·외출·자습·공지 관리 서비스
+- 백엔드 서버 유지보수 및 운영
+- 장애 대응, DB 구조 개선, 알림 시스템 구축
+
+**Tech**
+`Kotlin` `Spring Boot` `JPA` `MySQL` `Redis` `FCM`
+
+<a href="https://github.com/DSM-PICK">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DSM-PICK&repo=PiCK&bg_color=00000000&title_color=FF7A00&border_color=FF7A00"/>
+</a>
 
 <br/>
 
-<!-- =======================
-  📫 Contact
-======================= -->
-## 📫 Contact
-- GitHub: https://github.com/ByunDohwi
+### FINDA — 교내 봉사 관리 프로젝트
+
+- 서비스 기획, 설계 및 개발에 참여
+- 에러 대응 및 설계 이유를 기록하는 팀 블로그 운영 중
+
+<a href="https://github.com/team-FINDA">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=team-FINDA&repo=FINDA&bg_color=00000000&title_color=FF7A00&border_color=FF7A00"/>
+</a>
+
+<br/>
+
+<!-- =====================
+  What I Care About
+===================== -->
+## What I Care About
+- 문제가 발생했을 때 **표면적인 현상보다 원인을 이해하려고 노력합니다**
+- 데이터가 서비스의 기반이라는 생각으로 **DB 설계와 변경에 신중하게 접근합니다**
+- 당장의 구현보다 **운영하면서 유지하기 쉬운 구조를 고민합니다**
+- 혼자 잘하는 것보다 **팀이 함께 이해하고 나아갈 수 있는 방향을 중요하게 생각합니다**m
+
+<br/>
+
+<!-- =====================
+  Contact
+===================== -->
+## Contact
+- GitHub: https://github.com/ByunDohwi  
+- Email: dohwe0978@gmail.com
 
 <br/>
 
