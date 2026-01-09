@@ -3,7 +3,7 @@
   Main Color: Orange (#FF7A00)
 ===================================== -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=FF7A00&height=230&section=header&text=ByunDohwi&fontSize=72&fontColor=ffffff&animation=fadeIn&desc=Backend%20Developer%20who%20runs%20real%20services&descAlignY=78)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FF7A00&height=230&section=header&text=ByunDohwi&fontSize=72&fontColor=ffffff&animation=fadeIn\&descAlignY=78)
 
 <div align="center">
 
