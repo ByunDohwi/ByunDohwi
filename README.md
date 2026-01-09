@@ -2,7 +2,7 @@
   Profile README — ByunDohwi (Clean)
 ===================================== -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=230&section=header&text=ByunDohwi&fontSize=72&fontColor=ffffff&animation=fadeIn&desc=Backend%20Developer%20who%20runs%20real%20services&descAlignY=78&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=230&section=header&text=ByunDohwi&fontSize=72&fontColor=ffffff&animation=fadeIn&descAlignY=78&descSize=18)
 
 <div align="center">
 
@@ -61,11 +61,13 @@
 <br/><br/><br/>
 
 <!-- FINDA -->
-<img src="./assets/FINDA.png" width="92" />
+<img src="./assets/FINDA.svg" width="92" />
 
 ### FINDA — 교내 봉사 관리 프로젝트
 서비스 기획, 설계 및 개발에 참여  
 에러 대응 및 설계 이유를 기록하는 팀 블로그 운영 중  
+현재 서비스 개발 진행 중
+
 
 <a href="https://github.com/team-FINDA">
   <img src="https://img.shields.io/badge/GitHub-team--FINDA-3B82F6?style=for-the-badge&logo=github&logoColor=white" />
